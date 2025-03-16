@@ -13,3 +13,5 @@ Please note the content of the messages here are in no way representative of the
 # Organization
 
 The bulk of the work is in hate_speech_detection.ipynb. The work to get all 41,100 comments embedded with ELMo are in the Elmo.ipynb notebook and was used in the google colab environment.
+
+Requirements.txt lists the specific requirements for gensim to work in the environment.
